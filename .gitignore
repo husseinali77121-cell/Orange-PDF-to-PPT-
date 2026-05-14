@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project folders
+extracted_images/
+
+# PowerPoint temp files
+~$*.pptx
+
+# Mac files
+.DS_Store
