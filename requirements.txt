@@ -1,3 +1,8 @@
 streamlit
-python-pptx
 pdfplumber
+python-pptx
+PyMuPDF
+Pillow
+google-generativeai
+python-bidi
+arabic-reshaper
